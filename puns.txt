@@ -5,3 +5,9 @@ const war;
 -----
 $arr = array('hip', 'hip')  // 'hip', 'hip' array
 -----
+whats a pirate's favorite programming language? 
+sea++
+-----
+How did the hacker get away from the police?
+he ransomware 
+-----
