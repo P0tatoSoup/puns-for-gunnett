@@ -5,3 +5,4 @@ const war;
 -----
 $arr = array('hip', 'hip')  // 'hip', 'hip' array
 -----
+kdjdjd
